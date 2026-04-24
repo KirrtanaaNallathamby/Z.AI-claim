@@ -1,4 +1,6 @@
-# Agentic Decision Intelligence Insurance Platform
+# Z.AI-claim
+
+Agentic Decision Intelligence Insurance Platform
 
 A multi-stakeholder insurance system that uses AI as an autonomous Claims Adjuster. The system reasons through evidence (PDFs and images) and policy rules to decide if a claim should be approved, rejected, or flagged for fraud.
 
