@@ -1,0 +1,19 @@
+# Environment variables — contains API keys
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Frontend build output
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
