@@ -30,7 +30,7 @@ export default function Login() {
   return (
     <div className="auth-page">
       <div className="auth-card">
-        <h1>Insurance AI Platform</h1>
+        <h1>Insurance Z.AI Claim Platform</h1>
         <h2>Sign In</h2>
         {error && <div className="error-msg">{error}</div>}
         <form onSubmit={handleSubmit}>

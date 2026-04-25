@@ -16,7 +16,7 @@ export default function Navbar() {
     <nav className="navbar" style={{ height: '70px', padding: '0 40px' }}>
       <div className="navbar-brand" style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
         <span style={{ letterSpacing: '-0.5px', fontSize: '18px', textTransform: 'uppercase' }}>
-          Insurance <strong>AI</strong>
+          Insurance <strong> Z.AI Claim</strong> 
         </span>
       </div>
       

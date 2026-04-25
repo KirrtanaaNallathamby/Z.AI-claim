@@ -76,11 +76,10 @@ export default function Admin() {
       <Navbar />
       <div className="dashboard" style={{ maxWidth: '1250px' }}>
         <header style={{ marginBottom: '32px' }}>
-          <h2 style={{ fontSize: '24px', fontWeight: '800' }}>Admin Command Center</h2>
+          <h2 style={{ fontSize: '24px', fontWeight: '800' }}>Admin Center</h2>
           <p className="subtitle">Overview of AI underwriting and management portal.</p>
         </header>
 
-        {/* Stats Grid */}
         <div className="stats-grid" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))', gap: '15px', marginBottom: '40px' }}>
           <div className="stat-card" style={{ borderLeft: '4px solid #2563eb', background: '#f8fafc' }}>
             <div className="stat-value" style={{ color: '#2563eb' }}>RM {totalRmsaved}</div>
@@ -136,7 +135,6 @@ export default function Admin() {
         </div>
       </div>
 
-      {/* --- Detailed Side Panel --- */}
       {selectedClaim && (
         <>
           <div onClick={() => setSelectedClaim(null)} style={{ position: 'fixed', inset: 0, background: 'rgba(0,0,0,0.4)', zIndex: 999 }} />
