@@ -70,5 +70,6 @@ Create a Supabase project and run the following tables and storage:
 5. AI makes final decision: approved / rejected / flagged
 6. Admin dashboard shows stats, flagged claims, approved claims — with override actions
 
-## Documentation link (Slides + Pitch Vid + Product Requirement Documentation + System Analysis Documentation + Testing Analysis Documentation)
+## Documentation link 
+# (Slides + Pitch Vid + Product Requirement Documentation + System Analysis Documentation + Testing Analysis Documentation)
 https://drive.google.com/drive/folders/1RmksctN7EBXJ7BnADrwNnoZZ1IlaLfoP?usp=sharing 
