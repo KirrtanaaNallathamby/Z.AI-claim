@@ -69,3 +69,6 @@ Create a Supabase project and run the following tables and storage:
 4. If fraud suspected → claim flagged, customer answers AI questions (interrogation)
 5. AI makes final decision: approved / rejected / flagged
 6. Admin dashboard shows stats, flagged claims, approved claims — with override actions
+
+## Documentation link 
+https://drive.google.com/drive/folders/1RmksctN7EBXJ7BnADrwNnoZZ1IlaLfoP?usp=sharing 
